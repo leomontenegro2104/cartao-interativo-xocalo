@@ -1,0 +1,15 @@
+.header {
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.logo-xocalo {
+    width: 200px;
+    margin-bottom: 30px;
+
+}
+
+.header__title {
+    font-family: 'Questrial', sans-serif;
+    font-size: 1.4rem;
+}

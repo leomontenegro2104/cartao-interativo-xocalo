@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #C95211;
+  font-family: 'Chau Philomene One', sans-serif;
+  color: #FFF;
+}
+
+html {
+  font-size: 62.5%;
+}
