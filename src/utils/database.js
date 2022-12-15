@@ -20,7 +20,7 @@ export const dataBase = [
         id: 3,
         mediaLogo: cardapioDigital,
         mediaName: 'CARDÁPIO DIGITAL',
-        mediaLink: 'https://drive.google.com/file/d/1Fnw_Noea_jZQkbD4ONVm0TQVe0BTwm8w/view?usp=sharing'
+        mediaLink: 'https://drive.google.com/file/d/1poHVChvggtFAAwx4oR4dg3Cesl9amDmD/view?usp=share_link'
     },
     {
         id: 4,
